@@ -30,7 +30,7 @@
                <th>Module</th>
                <th> Duration </th>
                </tr>
-                <tr><td> Ques.2</td>
+                <tr><td> Ques.1</td>
                     <td>Operatin System</td>
                     <td> 30 minutes </td>
                </tr>
